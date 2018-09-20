@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [06/Aug/2018:21:42:53 +0800] "GET /cart/show.html HTTP/1.1" 302 - http-bio-8092-exec-1 39
+0:0:0:0:0:0:0:1 - - [06/Aug/2018:21:42:53 +0800] "GET /user/login.html HTTP/1.1" 200 12414 http-bio-8092-exec-3 839
+0:0:0:0:0:0:0:1 - - [06/Aug/2018:21:42:53 +0800] "GET /css/login.css HTTP/1.1" 200 28031 http-bio-8092-exec-4 7
+0:0:0:0:0:0:0:1 - - [06/Aug/2018:21:42:53 +0800] "GET /js/login/g.base.js HTTP/1.1" 200 11811 http-bio-8092-exec-2 6
+0:0:0:0:0:0:0:1 - - [06/Aug/2018:21:42:53 +0800] "GET /js/login/jdEdit.js HTTP/1.1" 200 16390 http-bio-8092-exec-6 3
+0:0:0:0:0:0:0:1 - - [06/Aug/2018:21:42:54 +0800] "GET /js/jquery-1.2.6.min.js HTTP/1.1" 304 - http-bio-8092-exec-8 46
+0:0:0:0:0:0:0:1 - - [06/Aug/2018:21:42:54 +0800] "GET /js/login/login.js HTTP/1.1" 200 25593 http-bio-8092-exec-7 2
+0:0:0:0:0:0:0:1 - - [06/Aug/2018:21:42:54 +0800] "GET /js/login/jdThickBox.js HTTP/1.1" 200 9155 http-bio-8092-exec-10 2
+0:0:0:0:0:0:0:1 - - [06/Aug/2018:21:42:54 +0800] "GET /js/login/checkClient.js HTTP/1.1" 200 1627 http-bio-8092-exec-10 2
+0:0:0:0:0:0:0:1 - - [06/Aug/2018:21:42:54 +0800] "GET /images/jt-logo.png HTTP/1.1" 304 - http-bio-8092-exec-10 1
+0:0:0:0:0:0:0:1 - - [06/Aug/2018:21:42:54 +0800] "GET /images/login-all-bg.png HTTP/1.1" 200 12219 http-bio-8092-exec-10 4
+0:0:0:0:0:0:0:1 - - [06/Aug/2018:21:42:54 +0800] "GET /images/544a11d3Na5a3d566.png HTTP/1.1" 200 195803 http-bio-8092-exec-9 6
+0:0:0:0:0:0:0:1 - - [06/Aug/2018:21:42:54 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8092-exec-9 5
+0:0:0:0:0:0:0:1 - - [06/Aug/2018:21:45:34 +0800] "GET /show/html HTTP/1.1" 404 969 http-bio-8092-exec-7 1
+0:0:0:0:0:0:0:1 - - [06/Aug/2018:21:45:39 +0800] "GET /show.html HTTP/1.1" 404 969 http-bio-8092-exec-8 8
+0:0:0:0:0:0:0:1 - - [06/Aug/2018:21:45:47 +0800] "GET /cart/show.html HTTP/1.1" 302 - http-bio-8092-exec-8 3
+0:0:0:0:0:0:0:1 - - [06/Aug/2018:21:45:47 +0800] "GET /user/login.html HTTP/1.1" 200 12414 http-bio-8092-exec-8 7
